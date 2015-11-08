@@ -14,3 +14,6 @@ The first two courses in this Specialization include an orientation to client-si
 ###06/11/2015
 - Enrolled in the program
 - Finished Week 1 | HTML & CSS in Course 1 | HTML, CSS and JavaScript
+
+###08/11/2015
+- Finished Week 1 | Front-end Web UI Frameworks Overview: Bootstrap in Course 2 | Front-End Web UI Frameworks and Tools
