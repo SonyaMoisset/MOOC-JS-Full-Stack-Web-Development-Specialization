@@ -27,3 +27,6 @@ The first two courses in this Specialization include an orientation to client-si
 - Finished Week 3 | Advanced JavaScript in Course 1 | HTML, CSS and JavaScript
 - Finished Week 3 | Bootstrap Javascript Components in Course 2 | Front-End Web UI Frameworks and Tools
 - conFusion project Updated
+
+###26/11/2015
+- Finished Week 4 | Web Tools in Course 2 | Front-End Web UI Frameworks and Tools
