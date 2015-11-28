@@ -94,3 +94,10 @@ body {
   position: absolute;
   right: 0px;
 }
+.reservation {
+    color: white;
+}
+.reservation:hover {
+    color: white;
+    text-decoration: none;
+}
