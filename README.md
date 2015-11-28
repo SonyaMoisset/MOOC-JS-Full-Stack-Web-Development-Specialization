@@ -29,4 +29,7 @@ The first two courses in this Specialization include an orientation to client-si
 - conFusion project Updated
 
 ###26/11/2015
-- Finished Week 4 | Web Tools in Course 2 | Front-End Web UI Frameworks and Tools
+- Finished Week 4 | Web Tools in Course 2 | Front-End Web UI Frameworks and 
+
+###28/11/2015
+- ConFusion project Updated
