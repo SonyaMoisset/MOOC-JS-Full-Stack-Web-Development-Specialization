@@ -29,7 +29,10 @@ The first two courses in this Specialization include an orientation to client-si
 - conFusion project Updated
 
 ###26/11/2015
-- Finished Week 4 | Web Tools in Course 2 | Front-End Web UI Frameworks and 
+- Finished Week 4 | Web Tools in Course 2 | Front-End Web UI Frameworks and Tools
 
 ###28/11/2015
 - ConFusion project Updated
+
+###02/12/2015
+- Finished Week 1 | Front-End Javascript Frameworks: AngularJS Overview in Course 3 | Front-End JavaScript Frameworks: AngularJS
