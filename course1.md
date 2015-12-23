@@ -1,6 +1,6 @@
-#Full Stack Web Development Specialization
-##HTML, CSS and JavaScript
-###About the Course:
+# Full Stack Web Development Specialization
+## HTML, CSS and JavaScript
+### About the Course:
 This course will teach you the essential elements of web page development, covering HTML, CSS and JavaScript. No previous experience of these technologies is necessary, although it is helpful if you have some prior programming experience. First, HTML together with CSS are discussed and explored. Then we move on to consider the essential components of JavaScript, including variables, arrays, loops, events and functions. Then we explore more advanced elements of JavaScript control, including advanced use of functions, event control, array processing, and DOM manipulation.
 
 After completing this course, you will be able to:
@@ -8,8 +8,8 @@ After completing this course, you will be able to:
 - Be able to apply CSS (style sheet rules) to parts of a web page, for altering display and behavior
 - Be able to program interactive JavaScript in a web page
 
-####Week 1 
-#####HTML & CSS
+#### Week 1 
+##### HTML & CSS
 - Welcome!
 - The Basics of HTML
 - Multimedia
@@ -20,8 +20,8 @@ After completing this course, you will be able to:
 - HTML & CSS - Assessment Task
 - Assignment: Dating Web Site Assessment
 
-####Week 2
-#####Introduction to JavaScript
+#### Week 2
+##### Introduction to JavaScript
 - Learning JavaScript in This Course
 - Introduction to JavaScript
 - Basics of JavaScript
@@ -33,8 +33,8 @@ After completing this course, you will be able to:
 - Introduction to JavaScript - Assessment Task
 - Assignment: Color Guessing Game
 
-####Week 3
-#####Advanced JavaScript
+#### Week 3
+##### Advanced JavaScript
 - Module Outcomes
 - More on Loops
 - More on Arrays
