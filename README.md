@@ -40,5 +40,6 @@ The first two courses in this Specialization include an orientation to client-si
 ### 23/12/2015
 - ConFusion project Updated with dishdetail.html
 
-### 02/02/2016
+### 05/02/2016
 - Review Week 1 | HTML & CSS in Course 1 | HTML, CSS and JavaScript
+- Review Week 2 | Introduction to JavaScript in Course 1 | HTML, CSS and JavaScript
