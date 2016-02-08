@@ -46,3 +46,6 @@ The first two courses in this Specialization include an orientation to client-si
 
 ### 06/02/2016
 - Review Week 3 | Advanced JavaScript in Course 1 | HTML, CSS and JavaScript
+
+### 08/02/2016
+- Review Week 1 | Front-end Web UI Frameworks Overview: Bootstrap in Course 2 | Front-End Web UI Frameworks and Tools
