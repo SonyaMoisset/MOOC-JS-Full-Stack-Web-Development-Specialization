@@ -49,3 +49,6 @@ The first two courses in this Specialization include an orientation to client-si
 
 ### 08/02/2016
 - Review Week 1 | Front-end Web UI Frameworks Overview: Bootstrap in Course 2 | Front-End Web UI Frameworks and Tools
+
+### 11/02/2016
+- Review Week 2 | Bootstrap CSS Components in Course 2 | Front-End Web UI Frameworks and Tools
