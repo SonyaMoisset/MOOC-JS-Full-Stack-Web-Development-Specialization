@@ -53,10 +53,6 @@
                   <span class="badge">{{dish.price | currency}}</span>
                 </h2>
                 <p>{{dish.description}}</p>
-                <p>Comment: {{dish.comment}}</p>
-                <p>Type your comment:
-                  <input type="text" ng-model="dish.comment">
-                </p>
               </div>
             </li>
           </ul>
@@ -113,22 +109,24 @@
       this.select = function(setTab) {
         this.tab = setTab;
 
-        if (setTab === 2)
-          this.filtText = "appetizer";
-        else if (setTab === 3)
-          this.filtText = "mains";
-        else if (setTab === 4)
-          this.filtText = "dessert";
-        else
-          this.filtText = "";
+        switch (setTab) {
+          case 2:
+            this.filtText = "appetizer";
+            break;
+          case 3:
+            this.filtText = "mains";
+            break;
+          case 4:
+            this.filtText = "dessert";
+            break;
+          default:
+            this.filtText = "";
+        }
       }
 
       this.isSelected = function(checkTab) {
         return (this.tab === checkTab);
       }
-
-
-
 
     });
   </script>
