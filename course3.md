@@ -10,7 +10,7 @@ At the end of this course you will:
 - Be able to use various Angular features including directives, filters, controllers, scope and routing
 - Be able to implement a functional front-end web application using AngularJS
 
-#### Week 1 
+#### Week 1
 ##### Front-End Javascript Frameworks: AngularJS Overview
 - Full Stack Web Development: The Big Picture
 - Introduction to AngularJS
@@ -18,3 +18,11 @@ At the end of this course you will:
 - Angular Filters
 - Assignment 1
 - Assignment: Assignment 1: Introduction to AngularJS
+
+#### Week 2
+##### Task Runners, Angular Scope, Forms and Form Validation
+- Web Tools: Grunt and Gulp
+- Angular Scope
+- Angular Forms and Form Validation
+- Assignment 2
+- Assignment: Assignment 2: Angular Forms
