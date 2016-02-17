@@ -58,4 +58,7 @@ The first two courses in this Specialization include an orientation to client-si
 - Review Week 4 | Web Tools in Course 2 | Front-End Web UI Frameworks and Tools
 
 ### 15/02/2016
-- Review Week Week 1 | Front-End Javascript Frameworks: AngularJS Overview in Course 3 | Front-End JavaScript Frameworks: AngularJS
+- Review Week 1 | Front-End Javascript Frameworks: AngularJS Overview in Course 3 | Front-End JavaScript Frameworks: AngularJS
+
+### 17/02/2016
+- Finished Week 2 | Task Runners, Angular Scope, Forms and Form Validation in Course 3 | Front-End JavaScript Frameworks: AngularJS
