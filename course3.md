@@ -16,13 +16,16 @@ At the end of this course you will:
 - Introduction to AngularJS
 - Models, Views and Controllers
 - Angular Filters
-- Assignment 1
-- Assignment: Assignment 1: Introduction to AngularJS
 
 #### Week 2
 ##### Task Runners, Angular Scope, Forms and Form Validation
 - Web Tools: Grunt and Gulp
 - Angular Scope
 - Angular Forms and Form Validation
-- Assignment 2
-- Assignment: Assignment 2: Angular Forms
+
+#### Week 3
+##### Single Page Applications
+- Angular Factory, Service and Dependency Injection
+- Angular Templates
+- Angular ngRoute and Single Page Applications
+- Angular UI-Router for Single Page Applications
