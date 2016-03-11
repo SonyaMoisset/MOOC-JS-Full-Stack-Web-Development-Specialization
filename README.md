@@ -62,3 +62,6 @@ The first two courses in this Specialization include an orientation to client-si
 
 ### 17/02/2016
 - Finished Week 2 | Task Runners, Angular Scope, Forms and Form Validation in Course 3 | Front-End JavaScript Frameworks: AngularJS
+
+### 11/03/2016
+- Finished Week 3 | Single Page Applications in Course 3 | Front-End JavaScript Frameworks: AngularJS
