@@ -65,3 +65,6 @@ The first two courses in this Specialization include an orientation to client-si
 
 ### 11/03/2016
 - Finished Week 3 | Single Page Applications in Course 3 | Front-End JavaScript Frameworks: AngularJS
+
+### 13/03/2016
+- Finished Week 4 | Client-Server Communication and Angular Testing in Course 3 | Front-End JavaScript Frameworks: AngularJS
