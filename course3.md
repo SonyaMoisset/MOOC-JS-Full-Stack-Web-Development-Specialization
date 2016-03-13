@@ -29,3 +29,11 @@ At the end of this course you will:
 - Angular Templates
 - Angular ngRoute and Single Page Applications
 - Angular UI-Router for Single Page Applications
+
+#### Week 4
+##### Client-Server Communication and Angular Testing
+- Client-Server Communication
+- Angular $http Service
+- RESTful Services and Angular $resource
+- Angular Testing
+- Web Tools: Yo and Yeoman
