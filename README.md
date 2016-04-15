@@ -68,3 +68,6 @@ The first two courses in this Specialization include an orientation to client-si
 
 ### 13/03/2016
 - Finished Week 4 | Client-Server Communication and Angular Testing in Course 3 | Front-End JavaScript Frameworks: AngularJS
+
+### 15/04/2016
+- Finished Week 1 | Hybrid Mobile App Development Frameworks: An Introduction in Course 4 | Multiplatform Mobile App Development with Web Technologies
