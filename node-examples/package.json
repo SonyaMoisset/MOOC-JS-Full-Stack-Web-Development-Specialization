@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prompt": "^0.2.14"
+    "prompt": "^1.0.0"
   }
 }
