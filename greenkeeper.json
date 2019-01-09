@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "conFusion2/package.json",
+        "node-examples/package.json"
+      ]
+    }
+  }
+}
