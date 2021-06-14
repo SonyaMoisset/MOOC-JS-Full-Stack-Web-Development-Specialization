@@ -15,7 +15,7 @@
     "gulp-notify": "^2.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-rev": "9.0.0",
-    "gulp-uglify": "^1.5.2",
+    "gulp-uglify": "3.0.2",
     "gulp-usemin": "^0.3.20",
     "jshint": "^2.9.1",
     "jshint-stylish": "^2.1.0"
