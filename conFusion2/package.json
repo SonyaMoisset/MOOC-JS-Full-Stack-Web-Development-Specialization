@@ -3,7 +3,7 @@
   "private": true,
   "devDependencies": {
     "browser-sync": "^2.11.1",
-    "del": "^2.2.0",
+    "del": "6.1.1",
     "gulp": "^3.9.1",
     "gulp-cache": "^0.4.2",
     "gulp-changed": "^1.3.0",
