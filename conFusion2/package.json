@@ -14,7 +14,7 @@
     "gulp-ng-annotate": "^1.1.0",
     "gulp-notify": "^2.2.0",
     "gulp-rename": "2.0.0",
-    "gulp-rev": "9.0.0",
+    "gulp-rev": "10.0.0",
     "gulp-uglify": "3.0.2",
     "gulp-usemin": "^0.3.20",
     "jshint": "^2.9.1",
